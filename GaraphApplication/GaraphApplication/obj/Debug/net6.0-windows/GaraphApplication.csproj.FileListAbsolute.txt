@@ -1,0 +1,17 @@
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\bin\Debug\net6.0-windows\GaraphApplication.exe
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\bin\Debug\net6.0-windows\GaraphApplication.deps.json
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\bin\Debug\net6.0-windows\GaraphApplication.runtimeconfig.json
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\bin\Debug\net6.0-windows\GaraphApplication.dll
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\bin\Debug\net6.0-windows\GaraphApplication.pdb
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.csproj.AssemblyReference.cache
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.Form1.resources
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.csproj.GenerateResource.cache
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.AssemblyInfoInputs.cache
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.AssemblyInfo.cs
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.csproj.CoreCompileInputs.cache
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.dll
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\refint\GaraphApplication.dll
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.pdb
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\GaraphApplication.genruntimeconfig.cache
+C:\Users\Robert.Jankowski\source\repos\GaraphApplication\GaraphApplication\obj\Debug\net6.0-windows\ref\GaraphApplication.dll
